@@ -2,6 +2,9 @@
 
 For the git repository we have enabled branch protection for the main and staging (development) branches. This means that changes can only be made to them via pull requests and certain rules must be followed in order to merge them from said pull request.
 
+# Note
+ * `mypy.ini` must be in the root of the repo (not in any folder)
+
 ## Pull requests
  * When a new commit is made to the branch, it automatically updates the pull request with said changes
  * All comments made by reviewers on the code in the pull request must be marked as resolved before it can be merged
