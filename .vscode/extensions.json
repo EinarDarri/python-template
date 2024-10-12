@@ -1,0 +1,11 @@
+{
+	"recommendations":[
+				"batisteo.vscode-django",
+				"charliermarsh.ruff",
+				"ms-python.mypy-type-checker",
+				"ms-python.debugpy",
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"mechatroner.rainbow-csv",
+				]
+}
